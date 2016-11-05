@@ -1,0 +1,15 @@
+{
+  "defaultRelease":"base",
+  "releases":{
+    "base":{
+      "author":"Varazdat Stepanyan",
+      "version":"1.0",
+      "controllerPath":"controller"
+    },
+    "api":{
+      "author":"Varazdat Stepanyan",
+      "version":"1.0",
+      "controllerPath":"controller"
+    }
+  }
+}
